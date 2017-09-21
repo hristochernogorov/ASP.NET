@@ -22,3 +22,11 @@ select,
 textarea {
     max-width: 280px;
 }
+.navbar-brand{
+    padding-bottom:initial;
+    padding-left:initial;
+    padding-right:initial;
+    padding-top:initial;
+    margin:initial;
+}
+
