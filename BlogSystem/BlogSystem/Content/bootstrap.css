@@ -315,6 +315,7 @@ body {
     font-size: 14px;
     line-height: 1.428571429;
     color: #7F7F7F;
+    background-image: url("../img/background-img.png")
 }
 
 input,
@@ -3977,8 +3978,8 @@ textarea.input-group-sm > .input-group-btn > .btn {
 
 .tabbable:before,
 .tabbable:after {
-  display: table;
-  content: " ";
+    display: table;
+    content: " ";
 }
 
 .tabbable:after {

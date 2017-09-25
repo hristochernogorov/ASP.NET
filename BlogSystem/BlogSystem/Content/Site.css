@@ -22,3 +22,23 @@ select,
 textarea {
     max-width: 280px;
 }
+.body-content{
+    background-color:honeydew;
+    text-align:justify;
+    color:gray;
+    border-radius:30px;
+}
+.body-content > h4,h5{
+    color:black;
+}
+footer > p{
+    color:black;
+    font-style:italic;
+}
+
+.img-about {
+    display: block;
+    border-radius: 30px;
+    width: 330px;
+    height: 190px;
+}
